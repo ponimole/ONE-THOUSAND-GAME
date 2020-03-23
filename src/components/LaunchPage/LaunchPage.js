@@ -21,7 +21,7 @@ function LaunchPage() {
 
                     <div className="DownloadContainer">
                         <img className="AndroidLogo" src={Images['AndroidLogo']}></img>
-                        <button className="DownloadButton">Download</button>
+                        <a className="DownloadButton" href="https://github.com/ponimole/ONE-THOUSAND-GAME/raw/master/src/components/LaunchPage/download/one-thousand.apk" download="one-thousand.apk">Download</a>
                     </div>
                 </div>
 
