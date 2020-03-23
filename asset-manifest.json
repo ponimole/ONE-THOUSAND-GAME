@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ONE-THOUSAND-GAME/static/css/main.789e67fa.chunk.css",
+    "main.js": "/ONE-THOUSAND-GAME/static/js/main.dde2b02d.chunk.js",
+    "main.js.map": "/ONE-THOUSAND-GAME/static/js/main.dde2b02d.chunk.js.map",
+    "runtime-main.js": "/ONE-THOUSAND-GAME/static/js/runtime-main.27600db1.js",
+    "runtime-main.js.map": "/ONE-THOUSAND-GAME/static/js/runtime-main.27600db1.js.map",
+    "static/js/2.34c7f0ea.chunk.js": "/ONE-THOUSAND-GAME/static/js/2.34c7f0ea.chunk.js",
+    "static/js/2.34c7f0ea.chunk.js.map": "/ONE-THOUSAND-GAME/static/js/2.34c7f0ea.chunk.js.map",
+    "index.html": "/ONE-THOUSAND-GAME/index.html",
+    "precache-manifest.6f9064781d9678de8bfa4a23db856c93.js": "/ONE-THOUSAND-GAME/precache-manifest.6f9064781d9678de8bfa4a23db856c93.js",
+    "service-worker.js": "/ONE-THOUSAND-GAME/service-worker.js",
+    "static/css/main.789e67fa.chunk.css.map": "/ONE-THOUSAND-GAME/static/css/main.789e67fa.chunk.css.map",
+    "static/js/2.34c7f0ea.chunk.js.LICENSE.txt": "/ONE-THOUSAND-GAME/static/js/2.34c7f0ea.chunk.js.LICENSE.txt",
+    "static/media/GREicon.png": "/ONE-THOUSAND-GAME/static/media/GREicon.7194cb72.png",
+    "static/media/Screenshot1.png": "/ONE-THOUSAND-GAME/static/media/Screenshot1.ec0f1ff2.png",
+    "static/media/Screenshot2.png": "/ONE-THOUSAND-GAME/static/media/Screenshot2.2f5f1df1.png",
+    "static/media/Screenshot3.png": "/ONE-THOUSAND-GAME/static/media/Screenshot3.fc18a81e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27600db1.js",
+    "static/js/2.34c7f0ea.chunk.js",
+    "static/css/main.789e67fa.chunk.css",
+    "static/js/main.dde2b02d.chunk.js"
+  ]
+}
